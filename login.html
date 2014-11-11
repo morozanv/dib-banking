@@ -20,7 +20,7 @@ if(isset($_SESSION['LOGIN_STATUS']) && !empty($_SESSION['LOGIN_STATUS'])){
 <body>
   <div class="footer_login">
     <span class="copyright">
-      &copy; <?php echo date('Y'); ?> Home ® 
+      &copy; <p href="javascript:void(0)" id="demo"></p> Home ® 
       &nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="" title="About">About</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -72,8 +72,13 @@ if(isset($_SESSION['LOGIN_STATUS']) && !empty($_SESSION['LOGIN_STATUS'])){
   $('.recuperare').click(function(){
     $('.bodySection').hide(200);
     window.location.replace("recuperare_parola.php");
+  });  
+});
+ $(function(){
+    var d = new Date();
+    var n = d.getFullYear();
+    document.getElementById("demo").innerHTML = n;
   });
-})
  </script>
  <script type="text/javascript"> 
  $(document).ready(function(){
