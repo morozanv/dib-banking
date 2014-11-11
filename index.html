@@ -14,7 +14,7 @@
 <body>
     <div class="footer_login">
         <span class="copyright">
-            &copy; Home <a id="year"></a> 
+            <footer id="year"></footer> 
             &nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="" title="About">About</a>
             &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -55,9 +55,7 @@
                 $('#login').hide(200);
             });
         });
-        var d = new Date();
-        var n = d.getFullYear();
-        document.getElementById("year").innerHTML = n;
+        document.getElementById("year").innerHTML = "<p>&copy;  " + new Date().getFullYear() + " Home. All rights reserved.</p>";
         </script>
         <div class="topSection clearfix">
             <div class="container_12 clearfix">
