@@ -3,7 +3,7 @@ __Un Sistem de management al documentelor (cunoscut și sub abrevierea DMS) este
 
 Creat de **Victor Morozan**: http://morozanv.eu
 
-[Demo](http://morozanv.com/b2b-center)
+[Demo](http://morozanv.github.io/b2b-center)
 
 Pagina de acces a portalului:
 
