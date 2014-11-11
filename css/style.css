@@ -62,11 +62,11 @@ h1, h2, h3, h4, h5, h6{font-family: 'Roboto Condensed', sans-serif;}
 ol { list-style: decimal; }
 ul { list-style: disc; }
 li { margin-left: 30px; }
-p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset, figure { color: #404645; }
+dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset, figure { color: #404645; }
 
 img{ max-width:100%;}
 a, p{ color:#69C; font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none;}
-a, p:hover{ text-decoration:underline;}
+a:hover{ text-decoration:underline;}
 select,
 textarea,
 input[type="text"],
