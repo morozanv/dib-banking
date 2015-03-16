@@ -1,9 +1,9 @@
 # B2B Center 1.0
 __Un Sistem de management al documentelor (cunoscut și sub abrevierea DMS) este un sistem software (sau un set de aplicații software) care furnizează, de regulă, capacitatea de stocare, versionare, metadate, securitate, indexare și de regasire rapidă a documentelor.__
 
-Creat de **Victor Morozan**: http://morozanv.eu
+Creat de **Victor Morozan**
 
-[Demo](http://morozanv.github.io/b2b-center)
+[Demo](http://morozan.eu)
 
 Pagina de acces a portalului:
 
