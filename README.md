@@ -7,16 +7,16 @@ Creat de **Victor Morozan**
 
 Pagina de acces a portalului:
 
-![Home Screen](/resource/screen_login.png)
+![Login Page](/resourse/screen_login.png)
 
 
 Prin proiectul dat se doreste implementarea unei solutii colaborative de gestiune unitara a documentelor si registratura electronica de tip Portal Web B2B. Solutia trebuie sa asigure functiile primare legate de documentele electronice: semnarea digitala, circulatia documentelor electronice, depozitarea documentelor electronice.
 
 ***
 
-Fluxul de lucru a portalului Documenta Infrastructuring Business:
+Fluxul de lucru pe portalul "Documenta Infrastructuring Business":
 
-![Home Screen](/resource/screen_home.png)
+![Home Page](/resourse/screen_home.png)
 
 Sistemele de tip DMS și arhivare electronică asigură:
 * Trasabilitatea documentelor si versionarea documentelor organizației
@@ -29,3 +29,9 @@ Documentele electronice se impart in următoarele clase:
 * Documente elaborate in editoare text (procesor de text ca Microsoft Word, Microsoft Excel, Open Office)
 * Copia electronică a documentelor pe hartie (obtinuta prin scanare - exemplu: facturi furnizori, facturi emise, procese verbale, contracte)
 * Fișiere sursa sau binare obtinute de personalul organizatiei in urma activității acestuia (exemple: fisiere program (pas,.c,java), fișiere aplicații grafice (Maya, 3D Studio Max), fișiere executabile (exe). In această categorie intră orice alt tip de fișier.
+
+***
+
+Lista documentelor create pe portalul "Documenta Infrastructuring Business":
+
+![Documents Page](/resourse/screen_documents.png)
