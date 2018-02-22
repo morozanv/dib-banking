@@ -1,22 +1,22 @@
-# B2B Center 1.0
+# Documenta Infrastructuring Business 1.0
 __Un Sistem de management al documentelor (cunoscut și sub abrevierea DMS) este un sistem software (sau un set de aplicații software) care furnizează, de regulă, capacitatea de stocare, versionare, metadate, securitate, indexare și de regasire rapidă a documentelor.__
 
 Creat de **Victor Morozan**
 
-[Demo](http://morozan.eu)
+[Demo](http://banking.spacecore.md/)
 
 Pagina de acces a portalului:
 
-![Home Screen](/screenshots/screen_1.png)
+![Home Screen](/screenshots/screen_login.png)
 
 
-Prin proiectul dat se doreste implementarea unei solutii colaborative de gestiune unitara a documentelor si registratura electronica de tip Portal Web B2B. Solutia trebuie sa asigure functiile primare legate de lucrul cu documentelor: semnarea digitala, circulatia documentelor, depozitarea documentelor electronice.
+Prin proiectul dat se doreste implementarea unei solutii colaborative de gestiune unitara a documentelor si registratura electronica de tip Portal Web B2B. Solutia trebuie sa asigure functiile primare legate de documentele electronice: semnarea digitala, circulatia documentelor electronice, depozitarea documentelor electronice.
 
 ***
 
-Structura Portalului Web B2B Center :
+Fluxul de lucru a portalului Documenta Infrastructuring Business:
 
-![Home Screen](/screenshots/screen_2.png)
+![Home Screen](/screenshots/screen_home.png)
 
 Sistemele de tip DMS și arhivare electronică asigură:
 * Trasabilitatea documentelor si versionarea documentelor organizației
