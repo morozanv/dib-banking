@@ -3,7 +3,7 @@ __Un Sistem de management al documentelor (cunoscut și sub abrevierea DMS) este
 
 Creat de **Victor Morozan**
 
-[Demo](http://b2b.spacecore.md/)
+[Demo](http://demo.spacecore.md/)
 
 Pagina de acces a portalului:
 
