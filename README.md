@@ -16,7 +16,7 @@ Prin proiectul dat se doreste implementarea unei solutii colaborative de gestiun
 
 Fluxul de lucru pe portalul "Documenta Infrastructuring Business":
 
-![Home Page](/resourse/Screenshot%202020-12-18%20at%2007.30.06.png)
+![Home Page](/resourse/Screenshot%202020-12-18%20at%2007.30.40.png)
 
 Sistemele de tip DMS și arhivare electronică asigură:
 * Trasabilitatea documentelor si versionarea documentelor organizației
@@ -34,4 +34,4 @@ Documentele electronice se impart in următoarele clase:
 
 Lista documentelor create pe portalul "Documenta Infrastructuring Business":
 
-![Documents Page](/resourse/Screenshot%202020-12-18%20at%2007.30.06.png)
+![Documents Page](/resourse/Screenshot%202020-12-18%20at%2007.31.05.png)
