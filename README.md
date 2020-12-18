@@ -5,6 +5,8 @@ Creat de **Victor Morozan**
 
 [Demo](http://demo.spacecore.md/)
 
+***
+
 Pagina de acces a portalului:
 
 ![Login Page](/resourse/Screenshot%202020-12-18%20at%2007.30.06.png)
