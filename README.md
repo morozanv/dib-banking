@@ -1,9 +1,9 @@
 # Documenta Infrastructuring Business 1.0
 __Un Sistem de management al documentelor (cunoscut și sub abrevierea DMS) este un sistem software (sau un set de aplicații software) care furnizează, de regulă, capacitatea de stocare, versionare, metadate, securitate, indexare și de regasire rapidă a documentelor.__
 
-Creat de **Victor Morozan**
-
 [Demo](http://demo.spacecore.md/)
+
+- account: `demo`, `demo12345`
 
 ***
 
